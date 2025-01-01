@@ -5,6 +5,13 @@
 ## Routes
 
 ```bash
+### users
+
+GET    /
+POST   /:id
+
+### contacts
+
 GET      /api/contact
 POST     /api/contact
 GET      /api/contact/:id
